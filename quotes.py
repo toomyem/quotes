@@ -388,15 +388,15 @@ all_exchanges =[ \
   Bitmarket(),
   Bitmaszyna(),
   Bitmarket24(),
-  Bitcurex(),
+#  Bitcurex(),
   Bitbay(),
   Bitorado(),
-  #NevBit(),
+#  NevBit(),
   Bitstamp(),
   Bitfinex(),
   CexIO(),
   Kraken(),
-  BitcurexEur(),
+#  BitcurexEur(),
   BtcChina(),
   Huobi()]
 
